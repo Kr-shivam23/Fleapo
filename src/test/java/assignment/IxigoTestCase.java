@@ -13,10 +13,7 @@ import pom.SelectFlights;
 
 public class IxigoTestCase extends BaseClass
 {
-WebDriver driver=launch();
-	
-	
-	
+	WebDriver driver=launch();
 
 	@Test
 	public void indigoHome() 
